@@ -1,4 +1,4 @@
-# Resonance
+# Resonance Skin Conductance Measurement Device
 
 Two files:
 1. Software that collects real-time skin conductance measurements as well as stores data on a microSD breakout board written in Arduino IDE
